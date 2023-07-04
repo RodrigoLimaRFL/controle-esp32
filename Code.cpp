@@ -7,8 +7,8 @@ BleKeyboard bleKeyboard;
 #define LEFT 17
 #define DOWN 18
 #define RIGHT 19
-#define BUTTON_A 21
-#define BUTTON_B 22
+#define BUTTON_A 22
+#define BUTTON_B 21
 
 bool keyStates[6] = {false, false, false, false, false, false};
 int keyPins[6] = {UP, LEFT, DOWN, RIGHT, BUTTON_A, BUTTON_B};
@@ -17,24 +17,31 @@ uint8_t keyCodes[6] = {'w', 'a', 's', 'd', 'z', 'x'};
 
 void setup() {
   Serial.begin(115200);
-  Serial.println("Iniciando...");
   setInputs();
   bleKeyboard.begin();
+  pinMode(2, OUTPUT);
+
 }
 
 bool connectNotificationSent = false;
 
 void loop() {
   int counter;
-  if(bleKeyboard.isConnected()) {
-    if (!connectNotificationSent) {
-      Serial.println("Conectado!");
-      connectNotificationSent = true;
-    }
-    for(counter = 0; counter < 6; counter ++){
-      handleButton(counter);
-    }
+  if(keyStates[0] == true){
+    digitalWrite(2, HIGH);
   }
+  else{
+    digitalWrite(2, LOW);
+  }
+  for(counter = 0; counter < 6; counter ++){
+     handleButton(counter);
+     Serial.print("Botao");
+     Serial.print(counter+1);
+     Serial.print(keyStates[counter]);
+     Serial.print(". ");
+  }
+  Serial.println(".");
+
 }
 
 void setInputs() {

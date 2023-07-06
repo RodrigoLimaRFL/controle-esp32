@@ -1,5 +1,5 @@
-# controle-esp32
-Controle de videogame feito na placa esp32 para a disciplina Eletrônica para Computação
+# Controle-ESP32
+Controle de videogame feito na placa ESP32 para a disciplina Eletrônica para Computação.
 
 ## Tabela dos Componentes:
 | Quantidade | Componentes        | Valor R$ |

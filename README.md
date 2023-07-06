@@ -23,7 +23,7 @@ OBS: Ao pegar os itens como os botões e a protoboard separadamente é posível 
 ![20230704_161731](https://github.com/RodrigoLimaRFL/controle-esp32/assets/118189820/314e24eb-1042-41b9-b723-13a5a1332983)
 
 ## Vídeo do controle funcionando:
-
+Youtube: https://youtu.be/eNJBol1TFt4
 <h2>Membros:</h2>
 
 <li> Karl Cruz Altenhofen - https://github.com/KarlCruzAltenhofen </li>

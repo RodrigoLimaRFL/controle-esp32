@@ -7,7 +7,7 @@ Controle de videogame feito na placa ESP32 para a disciplina Eletrônica para Co
 | 6          | Botões (incluso as tampas coloridas)         | (kit) |
 | 1          | Protoboard 400 furos              | (kit) |
 | 20          | Fios com ponteira de metal       | (kit) |
-| 1          | Extras(Leds, Resistores, Fotoresistor      | (kit) |
+| 1          | Extras(Leds, Resistores, Fotoresistor)      | (kit) |
 | 1          | (Kit) Completo dos itens acima      | R$ 35,00 |
 | 1          | ESP32 com Wifi e Bluetooth (DevKit V1)     | R$ 44,06 |
 | 2          | Carregador USB (Opcional)         | R$ 11,50 |

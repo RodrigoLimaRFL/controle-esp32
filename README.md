@@ -15,9 +15,12 @@ Controle de videogame feito na placa esp32 para a disciplina Eletrônica para Co
 
 OBS: Ao pegar os itens como os botões e a protoboard separadamente é posível reduzir bastante o valor do controle.
 
-## Fotos da placa/protoboard:
+## Fotos do controle:
 
-
+![20230704_161651](https://github.com/RodrigoLimaRFL/controle-esp32/assets/118189820/0407f66d-b55f-406e-bb04-cbcae007f4e4)
+![20230704_161706](https://github.com/RodrigoLimaRFL/controle-esp32/assets/118189820/a8b6fc61-c953-4762-b407-5ce5c567261b)
+![20230704_161715](https://github.com/RodrigoLimaRFL/controle-esp32/assets/118189820/18b9e7ff-fa9e-4311-9a2d-a3df6bb81725)
+![20230704_161731](https://github.com/RodrigoLimaRFL/controle-esp32/assets/118189820/314e24eb-1042-41b9-b723-13a5a1332983)
 
 ## Vídeo no youtube explicando o projeto:
 

@@ -22,7 +22,7 @@ OBS: Ao pegar os itens como os botões e a protoboard separadamente é posível 
 ![20230704_161715](https://github.com/RodrigoLimaRFL/controle-esp32/assets/118189820/18b9e7ff-fa9e-4311-9a2d-a3df6bb81725)
 ![20230704_161731](https://github.com/RodrigoLimaRFL/controle-esp32/assets/118189820/314e24eb-1042-41b9-b723-13a5a1332983)
 
-## Vídeo no youtube explicando o projeto:
+## Vídeo do controle funcionando:
 
 <h2>Membros:</h2>
 

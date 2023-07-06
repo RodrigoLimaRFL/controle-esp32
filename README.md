@@ -10,8 +10,8 @@ Controle de videogame feito na placa esp32 para a disciplina Eletrônica para Co
 | 1          | Extras(Leds, Resistores, Fotoresistor      |  |
 | 1          | Kit Completo dos itens acima      | R$ 35,00 |
 | 1          | ESP32 com Wifi e Bluetooth (DevKit V1)     | R$ 44,06 |
-| 2          | Carregador USB (Opcional)         | R$ 90,56 |
-| **Total**  |                    |  R$ 16,98 |
+| 2          | Carregador USB (Opcional)         | R$ 11,50 |
+| **Total**  |                    |  R$ 90,56 |
 
 OBS: Ao pegar os itens como os botões e a protoboard separadamente é posível reduzir bastante o valor do controle.
 

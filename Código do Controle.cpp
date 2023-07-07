@@ -1,3 +1,11 @@
+// Esse programa faz um controle de videogame em ESP32 para a disciplina SSC - 0180
+
+//Membros:
+// Anna Vitória Rocha Gonçalves
+// Karl Cruz Altenhofen
+// Maicon Chaves Marques
+// Rodrigo de Freitas Lima
+
 #define USE_NIMBLE
 #include <BleKeyboard.h>
 

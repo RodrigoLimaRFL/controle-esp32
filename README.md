@@ -24,7 +24,10 @@ OBS: Ao pegar os itens como os botões e a protoboard separadamente é posível 
 
 ## Vídeo do controle funcionando:
 Youtube: https://youtu.be/eNJBol1TFt4
-https://youtu.be/W9cHgEcF_e0
+
+## Vídeo explicando o projeto:
+Youtube: https://youtu.be/W9cHgEcF_e0
+
 <h2>Membros:</h2>
 
 <li> Karl Cruz Altenhofen - https://github.com/KarlCruzAltenhofen </li>
